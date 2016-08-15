@@ -1,2 +1,7 @@
-<?php php_info(); ?>
-<?= OláMundo ?>
+<?php
+ 
+	phpinfo();
+
+?>
+
+<?= "Nova Tag adicionada com Sucesso"; ?>
