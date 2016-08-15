@@ -1,1 +1,2 @@
-<?= Ola Mundo ?>
+<?php php_info(); ?>
+<?= OláMundo ?>
